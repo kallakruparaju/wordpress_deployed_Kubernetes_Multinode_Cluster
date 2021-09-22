@@ -10,5 +10,5 @@
 
 #### Entire configuration done with end to end automation 
 #### Provision the Infrastructure and sameway destroy the infrastructure within seconds done with the help of Instrastructure as code tool Terraform 
-### Used Dynamic inventory to fetch the details of the aws instances
-### Configure the Kubernetes Multi node Cluster in the aws cloud using the Configuration management tool Ansible
+#### Used Dynamic inventory to fetch the details of the aws instances
+#### Configure the Kubernetes Multi node Cluster in the aws cloud using the Configuration management tool Ansible
