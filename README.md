@@ -1,0 +1,1 @@
+# wordpress_deployed_Kubernetes_Multinode_Cluster
